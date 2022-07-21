@@ -1,0 +1,18 @@
+{
+  "name": "demotest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.5.0",
+    "cypress-xpath": "^2.0.0"
+  },
+  "dependencies": {
+    "cypress-plugin-snapshots": "^1.4.4"
+  }
+}
